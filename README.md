@@ -51,21 +51,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ystxxm">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ystxxm&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ystxrm/ystxrm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ystxrm/ystxrm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ystxrm/ystxrm/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ystrxxm)
