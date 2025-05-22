@@ -48,3 +48,10 @@
 <img src="https://raw.githubusercontent.com/ystxrm/ystxrm/output/snake.svg" alt="Snake animation" />
 
 ###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ystrxxm)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ystrxxm&count={count})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ystrxxm&width={width})
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ystrxxm&unique={true|1|on|yes})
