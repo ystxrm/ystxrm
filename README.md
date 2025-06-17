@@ -44,11 +44,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.gifer.com/Mdj4.gif"  />
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ystrxxm)
